@@ -2,7 +2,6 @@
 # EX 1A Print All Numbers 
 ## DATE: 22/04/2026
 
-## NAME: DHINESH R
 ## REGISTER NUMBER: 212223220019
 
 ## AIM:
