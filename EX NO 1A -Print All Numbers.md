@@ -28,6 +28,8 @@ End loop and stop the program.
 ```
 /*
 Program to implement Reverse a String
+Developed by: DHINESH R
+Register Number:  212223220019
 
 */
 
